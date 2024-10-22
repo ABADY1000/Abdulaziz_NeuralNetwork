@@ -1,4 +1,5 @@
 /.conda
 
 **/train
+**/test
 **/flower_photos.zip
